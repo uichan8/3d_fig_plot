@@ -1,6 +1,6 @@
 # 3D_fig_plot
 ## example
-![fig1](./fig1.png)
+![fig1](https://github.com/uichan8/3d_fig_plot/blob/main/imgs/newplot.png?raw=true)
 
 ## requirements
 ```bash
